@@ -1,2 +1,2 @@
-# Primeiro repositóri
+# Primeiro repositório
 Desafio de projeto
