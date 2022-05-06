@@ -1,5 +1,5 @@
 # jogo da velha
-Desafio de projeto
+Desafio de projeto Bootcamp Dio./Orbi
 <!DOCTYPE html>
 <html lang="pt-br">
 
